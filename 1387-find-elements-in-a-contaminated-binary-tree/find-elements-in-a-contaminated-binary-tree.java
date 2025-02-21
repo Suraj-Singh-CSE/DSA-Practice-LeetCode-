@@ -1,5 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
 
 class FindElements {
     private Set<Integer> values = new HashSet<>();
