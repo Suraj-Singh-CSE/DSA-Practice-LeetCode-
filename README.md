@@ -2,7 +2,7 @@
 
 This repository contains my daily **DSA (Data Structures & Algorithms) practice** from **LeetCode**. The goal is to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews. Each solution is implemented in an optimized and structured manner.  
 
-## 📌 Topics Covered  
+##  Topics Covered  
 - **Arrays & Strings**  
   - Searching, Sorting, Two Pointers, Sliding Window  
 - **Linked Lists**  
@@ -20,7 +20,7 @@ This repository contains my daily **DSA (Data Structures & Algorithms) practice*
 - **Greedy Algorithms**  
   - Interval Scheduling, Huffman Coding  
 
-## 📌 Repository Structure  
+##  Repository Structure  
 - **Daily Problems**  
   - Solutions are organized by date/problem name.  
 - **Code Files**  
@@ -28,7 +28,7 @@ This repository contains my daily **DSA (Data Structures & Algorithms) practice*
 - **Comments & Explanations**  
   - To help understand the approach better.  
 
-## 📌 How to Use?  
+##  How to Use?  
 1. Clone the repository:  
    ```bash
    git clone  https://github.com/Suraj-Singh-CSE/DSA-Practice-LeetCode-
