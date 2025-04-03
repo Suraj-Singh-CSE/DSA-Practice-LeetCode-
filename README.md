@@ -1,5 +1,4 @@
 # DSA-Practice-LeetCode-
-
 This repository contains my daily **DSA (Data Structures & Algorithms) practice** from **LeetCode**. The goal is to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews. Each solution is implemented in an optimized and structured manner.  
 
 ##  Topics Covered  
